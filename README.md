@@ -29,8 +29,6 @@ Ela fornece um "estado do sistema" baseado em uso de CPU, memória ou qualquer m
 
 ### Com Gradle
 
-### 📦 Instalação via Gradle
-
 ```groovy
 repositories {
     maven { url 'https://jitpack.io' }
